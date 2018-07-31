@@ -1,12 +1,17 @@
 # MIDS_bridgeCourse_python
 
 To Install Jupyter Notebooks without installing Anaconda (assuming your using Python 3.x). 
+
+Recomment Anaconda install. Anaconda has all the package required already.     
+http://jupyter.org/install
+
+Using Pip.  
 In Terminal:  
 pip3 install --upgrade pip  
 pip3 install jupyter  
 jupyter notebook  
 
-Recomment Anaconda install. Anaconda has all the package required already.  
+
 
 To Fork Course-Overview on Github (without answers)
 In web browser:
