@@ -4,7 +4,9 @@ To Install Jupyter Notebooks without installing Anaconda (assuming your using Py
 In Terminal:  
 pip3 install --upgrade pip  
 pip3 install jupyter  
-jupyter notebook 
+jupyter notebook  
+
+Recomment Anaconda install. Anaconda has all the package required already.  
 
 To Fork Course-Overview on Github (without answers)
 In web browser:
