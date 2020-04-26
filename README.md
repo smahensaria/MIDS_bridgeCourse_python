@@ -1,4 +1,4 @@
-# MIDS_bridgeCourse_python
+# MIDS_bridgeCourse_python - SMAHENSARIA
 
 To Install Jupyter Notebooks without installing Anaconda (assuming your using Python 3.x). 
 
